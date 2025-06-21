@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Female Developer" width="400" src="https://github.com/Hamsika7/Hamsika7/blob/main/assets/profile-img.png">
 
 - 🔭 **Currently Building:** YouTube Churn Prediction Dashboard with advanced analytics
 - 🌱 **Learning Journey:** Deep diving into ML algorithms, SQL optimization & n8n automation
@@ -63,20 +63,14 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamsika7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamsika7&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  ![Hamsika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsika7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsika7&layout=compact&langs_count=8&theme=react&hide_border=true)
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsika7&theme=react&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamsika7&theme=react&hide_border=true" alt="WakaTime Stats"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamsika7&theme=react&hide_border=true)
   
 </div>
 
@@ -86,7 +80,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=hamsika7&theme=react&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamsika7&theme=react&no-frame=true&no-bg=false&margin-w=4&row=2)
   
 </div>
 
@@ -96,8 +90,26 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsika7&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamsika7&theme=react-dark&hide_border=true)
   
+</div>
+
+---
+
+## 💻 This Week's Coding Journey
+
+<div align="center">
+
+| 🚀 **Technology** | ⏰ **Time Spent** | 📊 **Progress** | 🎯 **Focus Area** |
+|:-----------------:|:----------------:|:--------------:|:----------------:|
+| 🐍 **Python** | 12h 30m | ![](https://geps.dev/progress/50?color=3776ab) **50.2%** | ML Algorithms |
+| 🗄️ **SQL** | 6h 15m | ![](https://geps.dev/progress/25?color=00758f) **25.1%** | Query Optimization |
+| 📓 **Jupyter** | 3h 45m | ![](https://geps.dev/progress/15?color=f37626) **15.0%** | Data Analysis |
+| ⚡ **Streamlit** | 2h 30m | ![](https://geps.dev/progress/10?color=ff4b4b) **9.7%** | Dashboard Building |
+
+### 🎯 **Total Coding Time:** 24 hours 60 minutes
+*"Consistency is the key to mastery!"* ✨
+
 </div>
 
 ---
@@ -151,24 +163,11 @@
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2% 
-SQL          6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   25.1% 
-Jupyter      3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Streamlit    2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.7% 
-```
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
 
 ### 💡 *"In the world of data, every question is an opportunity to discover something extraordinary"*
 
-<img src="https://komarev.com/ghpvc/?username=hamsika7&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=hamsika7&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 **⭐ From [Hamsika7](https://github.com/Hamsika7)**
 
