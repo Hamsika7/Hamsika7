@@ -28,12 +28,14 @@
 <div align="center">
 
 ### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📊 Data Science & Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -42,10 +44,12 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔧 Development Tools
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -53,6 +57,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🎨 Design & UI/UX
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -63,7 +68,7 @@
 
 <div align="center">
   
-  ![Hamsika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsika7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsika7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsika7&layout=compact&langs_count=8&theme=react&hide_border=true)
 
 </div>
@@ -96,23 +101,6 @@
 
 ---
 
-## 💻 This Week's Coding Journey
-
-<div align="center">
-
-| 🚀 **Technology** | ⏰ **Time Spent** | 📊 **Progress** | 🎯 **Focus Area** |
-|:-----------------:|:----------------:|:--------------:|:----------------:|
-| 🐍 **Python** | 12h 30m | ![](https://geps.dev/progress/50?color=3776ab) **50.2%** | ML Algorithms |
-| 🗄️ **SQL** | 6h 15m | ![](https://geps.dev/progress/25?color=00758f) **25.1%** | Query Optimization |
-| 📓 **Jupyter** | 3h 45m | ![](https://geps.dev/progress/15?color=f37626) **15.0%** | Data Analysis |
-| ⚡ **Streamlit** | 2h 30m | ![](https://geps.dev/progress/10?color=ff4b4b) **9.7%** | Dashboard Building |
-
-### 🎯 **Total Coding Time:** 24 hours 60 minutes
-*"Consistency is the key to mastery!"* ✨
-
-</div>
-
----
 
 ## 💼 What I'm Working On
 
@@ -129,9 +117,11 @@
 <div align="center">
 
 ### 🚀 Open to collaborate on:
+
 **End-to-End ML Projects** • **Data Analytics Dashboards** • **Business Intelligence Solutions** • **Open Source Contributions**
 
 ### 💬 Ask me about:
+
 **Machine Learning Fundamentals** • **Data Preprocessing Techniques** • **SQL Query Optimization** • **Streamlit Dashboard Development** • **Python for Data Science**
 
 </div>
@@ -165,7 +155,7 @@
 
 <div align="center">
 
-### 💡 *"In the world of data, every question is an opportunity to discover something extraordinary"*
+### 💡 _"In the world of data, every question is an opportunity to discover something extraordinary"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamsika7&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
