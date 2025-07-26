@@ -146,7 +146,7 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1PL8MtJwpWY4DYTtmSewLWhAfZMKm1L6v/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Nb3SHGMOjOEEUD2LG0DTXEX7jObzWxrs/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Hamsika7)
 
 </div>
